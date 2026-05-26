@@ -24,8 +24,7 @@ This project was created as a redesign concept for Joburg Auto Tech, a Johannesb
 - Formspree
 
 ## Live Demo
-
-https://your-live-site-link.com
+https://rcnkuna.github.io/Joburg-Auto-Tech/
 
 ## Installation
 
